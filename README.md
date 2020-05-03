@@ -1,9 +1,11 @@
-# README
+# FOLIOS.AI
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Fully Autonomous, Artificially Intelligent, Stock Portfolio Management, Web Application
 
-Things you may want to cover:
+
+Folios.AI Software Version: Alpha 0.1
+
+
 
 * Ruby version
 
